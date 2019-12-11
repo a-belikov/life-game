@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "name": "Life",
+      "type": "chrome",
+      "host": "localhost",
+      "url": "file:///home/alexey/www/SO/life/index.html",
+      "port": 9222
+    }
+  ]
+}
